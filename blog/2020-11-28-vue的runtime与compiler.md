@@ -8,7 +8,7 @@ author_image_url: https://tvax4.sinaimg.cn/crop.0.0.1002.1002.1024/d1bdec9fly8gk
 tags: [vue, runtime,compiler]
 ---
 Vue的runtime与compiler
-<img src='../static/img/vue_logo.png' height='30px'/>
+<img src='img/vue_logo.png' height='30px'/>
 
 <!--truncate-->
 ## vue的完全版=runtime(运行时)+compiler(编译器)

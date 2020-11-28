@@ -8,7 +8,7 @@ author_image_url: https://tvax4.sinaimg.cn/crop.0.0.1002.1002.1024/d1bdec9fly8gk
 tags: [vue, vue-admin]
 ---
 记录vue-admin-template学习
-<img src='../static/img/vue_logo.png' height='30px'/>
+<img src='img/vue_logo.png' height='30px'/>
 
 <!--truncate-->
 
