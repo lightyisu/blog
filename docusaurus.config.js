@@ -34,38 +34,28 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '文档',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Docusaurus官网文档',
+              to: 'https://v2.docusaurus.io/',
             },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
+          
           ],
         },
         {
-          title: 'Community',
+          title: '社区',
           items: [
             {
               label: 'Stack Overflow',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+        
           ],
         },
    
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} lightyisu, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} lightyisu, Inc. <br/>基于React下的Docusaurus构建`,
     },
   },
   presets: [
