@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'My Blog',
+  title: 'jiheon.tk',
   tagline: 'The tagline of my site',
   url: 'https://lightyisu.vercel.app/',
   baseUrl: '/',
@@ -10,7 +10,7 @@ module.exports = {
   projectName: 'blog', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'jiheon.tk✔️',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
